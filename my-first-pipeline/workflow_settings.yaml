@@ -1,0 +1,5 @@
+dataformCoreVersion: 3.0.35
+defaultProject: cloud-dataform-testing
+defaultDataset: dataform_hkvikramsingh
+defaultLocation: us-east1
+defaultAssertionDataset: dataform_assertions
