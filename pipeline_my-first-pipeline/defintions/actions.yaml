@@ -1,1 +1,4 @@
-actions: []
+actions:
+- operation:
+    name: Simple query
+    filename: simple_query.sql
